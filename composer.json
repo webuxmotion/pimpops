@@ -1,0 +1,16 @@
+{
+  "name": "mdmfd/pimpops",
+  "description": "PHP-implementation Pops Framework",
+  "authors": [
+    {
+      "name": "Andrii Pereverziev",
+      "email": "pereverziev.andrii@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Core\\": "Core"
+    }
+  }
+}
