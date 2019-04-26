@@ -1,5 +1,5 @@
 <?php
 
-define('POP', 'Api');
+define('POP', 'Site');
 
 require_once 'Core/bootstrap.php';
